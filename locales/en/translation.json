@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "architects": "Architects",
+    "desc": "Site Description",
+    "daily": "Architect of the day",
+    "devs": "Developers"
+  },
+  "landing": {
+    "about": "ABOUT SITE",
+    "description": "On this site, created with the aim of obtaining credit, you can find information about architects who have contributed to the cultural development of Belarus with their creations",
+    "button": "List of architects",
+    "architectLink": "Architect page",
+    "architectOfTheDay": "Architect of the day",
+    "search": "Search"
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "longDescription": {
+        "ru": "Юрий Степанович Анаанич (23 ноября 1955 — 28 февраля 2015) — белорусский архитектор. Внёс вклад в формирование архитектурного облика современного Минска и других белорусских городов. Член Белорусского союза архитекторов.",
+        "en": "Yuri Stepanovich Ananich (November 23, 1955 - February 28, 2015) - Belarusian architect. In the introduction, a contribution to the formation of the architectural appearance of modern Minsk and other Belarusian cities. Member of the Belarusian Community of Architects."
+      },
+      "bio": [
+        {
+          "date": "23.11.1955",
+          "title": {
+            "ru": "Рождение",
+            "en": "Birth"
+          },
+          "text": {
+            "ru": "Родился в Минске, отец — машинист скорого поезда.",
+            "en": "Born in Minsk, his father is a fast train driver."
+          }
+        },
+        {
+          "date": "1978",
+          "title": {
+            "ru": "Образование",
+            "en": "Education"
+          },
+          "text": {
+            "ru": "Закончил архитектурный факультет Белорусского государственного политехнического института (сейчас БНТУ) по специальности «градостроительство». После завершения учёбы на протяжении тридцати лет работал в РУП «Институт Белгоспроект»",
+            "en": "Graduated from the architectural faculty of the Belarusian State Polytechnic Institute (now BNTU) with a degree in urban planning. After completing his studies for thirty years he worked at the RUE «Institute Belgosproject»"
+          }
+        },
+        {
+          "date": "2007",
+          "title": {
+            "ru": "Работа",
+            "en": "Work"
+          },
+          "text": {
+            "ru": "Проект Юрия Ананича победил в открытом конкурсе, объявленном МИДом Российской Федерации. Строительство завершилось в 2007 году.",
+            "en": "Yuri Ananich's project won an open competition announced by the Ministry of Foreign Affairs of the Russian Federation. The construction was completed in 2007."
+          }
+        },
+        {
+          "date": "06.08.1840",
+          "title": {
+            "ru": "Смерть",
+            "en": "Death"
+          },
+          "text": {
+            "ru": "Умер на железнодорожной станции «Птичь».",
+            "en": "He died at the «Ptich» railway station."
+          }
+        }
+      ],
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/BelSwissBank_Headquarters.jpg/1920px-BelSwissBank_Headquarters.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/NBRB.JPG/1280px-NBRB.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Belarusbank_511.jpg/1920px-Belarusbank_511.jpg"
+      ],
+      "video": "3iN4KHgnvws",
+      "location": "!1m18!1m12!1m3!1d3494.6000207723573!2d27.54222101617466!3d53.92700554810727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcf875f0bfecd%3A0xbb3ddec590b8e7b8!2z0J_QvtGB0L7Qu9GM0YHRgtCy0L4g0KDQvtGB0YHQuNC4!5e0!3m2!1sru!2sby!4v1621578714045!5m2!1sru!2sby"
+    },
+    {
+      "id": 1,
+      "longDescription": {
+        "ru": "Паоло Антонио Доменико Фонтана (28 октября 1696, Кастелло, Италия — † 17 марта 1765, Изяслав) — итальянский архитектор, работавший в Речи Посполитой. Представитель позднего барокко, близкого к виленскому. Поручик артиллерии Великого Княжества Литовского.",
+        "en": "Paolo Antonio Domenico Fontana (October 28, 1696, Castello, Italy - † March 17, 1765, Izyaslav) was an Italian architect who worked in the Commonwealth. Representative of the late Baroque, close to Vilna. Lieutenant of artillery of the Grand Duchy of Lithuania."
+      },
+      "bio": [
+        {
+          "date": "1723",
+          "title": {
+            "ru": "Переезд в РП",
+            "en": "moving to Polish-Lithuanian Commonwealth"
+          },
+          "text": {
+            "ru": "Неизвестно, где Фонтана получил образование. 2 марта 1723 он уехал из Италии в поисках лучшей жизни в Речь Посполитую.",
+            "en": "It is unknown where Fontana was educated. On March 2, 1723, he left Italy in search of a better life in the Polish-Lithuanian Commonwealth."
+          }
+        },
+        {
+          "date": "1745",
+          "title": {
+            "ru": "Возвращение в Италию",
+            "en": "Return to Italy"
+          },
+          "text": {
+            "ru": "В 1745 вернулся в Италию, однако уже в следующем году подписал новый контракт на службу при дворе князя Павла Карла Сангушко, теперь уже в Изяславе.",
+            "en": "In 1745 he returned to Italy, but the very next year he signed a new contract to serve at the court of Prince Pavel Karl Sangushko, now in Izyaslav."
+          }
+        },
+        {
+          "date": "1764",
+          "title": {
+            "ru": "Великая потеря",
+            "en": "Great loss"
+          },
+          "text": {
+            "ru": "Около 1764 архитектор окончательно теряет зрение. 17 марта 1765 Паоло Фонтана умер. Он был похоронен в Изяславе, но его могила не сохранилась.",
+            "en": "Around 1764, the architect finally loses his sight. Paolo Fontana died on March 17, 1765. He was buried in Izyaslav, but his grave has not survived."
+          }
+        }
+      ],
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/4._Вінниця_Домініканський_монастир.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bazylika_pw._św._Anny%2C-wnętrze.jpg/330px-Bazylika_pw._św._Anny%2C-wnętrze.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/Заслав.Палац_Санґушків_від_парку.png"
+      ],
+      "video": "T6MUSjwi4WQ",
+      "location": "!1m18!1m12!1m3!1d6587.824641510241!2d26.81548437682705!3d50.11700397346537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb3b250268613f3c7!2z0JTQstC-0YDQtdGGINCh0LDQvdCz0YPRiNC60L4!5e0!3m2!1sru!2sby!4v1621579745053!5m2!1sru!2sby"
+    },
+    {
+      "id": 2,
+      "longDescription": {
+        "ru": "Таде́уш Ростворо́вский (21 марта 1860, Ковалещизна близ Тыкоцина — 23 августа 1928, Вильно) — граф, российский и польский архитектор и художник польского происхождения.",
+        "en": "Tadeusz Rostvorovsky (March 21, 1860, Kovalechizna near Tykocin - August 23, 1928, Vilno) - Count, Russian and Polish architect and artist of Polish origin."
+      },
+      "bio": [
+        {
+          "date": "1860",
+          "title": {
+            "ru": "Рождение",
+            "en": "Birth"
+          },
+          "text": {
+            "ru": "Родился на северо-востоке Польши. Учился в средней школе в Познани, затем с 1870 года в Варшаве, где окончил гимназию.",
+            "en": "Born in northeastern Poland. He studied at a secondary school in Poznan, then from 1870 in Warsaw, where he graduated from a gymnasium."
+          }
+        },
+        {
+          "date": "1970",
+          "title": {
+            "ru": "Образование",
+            "en": "Education"
+          },
+          "text": {
+            "ru": "Учился в Санкт-Петербурге в Академии художеств (1876—1885, с перерывами; изучал архитектуру[2]), также в Кракове, Мюнхене, Париже.",
+            "en": "He studied in St. Petersburg at the Academy of Arts (1876-1885, intermittently; studied architecture [2]), also in Krakow, Munich, Paris."
+          }
+        },
+        {
+          "date": "1891",
+          "title": {
+            "ru": "Деятельность",
+            "en": "Activities"
+          },
+          "text": {
+            "ru": "Участвовал в проектировании царского охотничьего дворца в Белой Веже и реконструкции дворца Владислава Тышкевича в Ландварове (Лентварис; 1899). По его проектам перестраивался дворец Юзефа Бишевского в Лынтупах, был построен дворец Друцких-Любецких в Щучине",
+            "en": "Participated in the design of the royal hunting palace in Belaya Vezha and the reconstruction of the palace of Vladislav Tyshkevich in Landvarov (Lentvaris; 1899). According to his projects, the palace of Jozef Bishevsky in Lyntupy was rebuilt, the palace of the Drutsky-Lubetsky in Shchuchin was built."
+          }
+        },
+        {
+          "date": "1928",
+          "title": {
+            "ru": "Смерть",
+            "en": "Death"
+          },
+          "text": {
+            "ru": "Умер внезапно от сердечного удара в холле гостиницы. Похоронен на кладбище Расу.",
+            "en": "Died suddenly of a heart beat in the hotel lobby. Buried in the Rasu cemetery."
+          }
+        }
+      ],
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lietuvos_gelezinkeliai_headquarter_in_Vilnius3.JPG/1280px-Lietuvos_gelezinkeliai_headquarter_in_Vilnius3.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SaintGeorgeVilnius2.jpg/800px-SaintGeorgeVilnius2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Lithuanian_State_Jewish_Museum_in_Vilnius1.JPG"
+      ],
+      "video": "miLZT0Px2_Q",
+      "location": "!1m18!1m12!1m3!1d2285.502488479875!2d26.303716015903476!3d55.05193268037169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd1f5a961047ef%3A0x292933e1f2c84f12!2z0KPRgdCw0LTRjNCx0LAg0JHQuNGI0LXQstGB0LrQuNGF!5e0!3m2!1sru!2sby!4v1621580950693!5m2!1sru!2sby"
+    },
+    {
+      "id": 3,
+      "longDescription": {
+        "ru": "Леони́д Ме́нделевич Ле́вин (25 июля 1936, Минск — 1 марта 2014, там же) — заслуженный архитектор Республики Беларусь, Лауреат Ленинской премии и премии Ленинского комсомола, Лауреат премии Волгоградского Комсомола, дважды лауреат Государственной премии Республики Беларусь, лауреат многих престижных конкурсов и смотров архитектурных работ.",
+        "en": "Leonid Mendelevich Levin (July 25, 1936, Minsk - March 1, 2014, ibid.) - Honored Architect of the Republic of Belarus, Laureate of the Lenin Prize and the Lenin Komsomol Prize, Laureate of the Volgograd Komsomol Prize, twice laureate of the State Prize of the Republic of Belarus, laureate of many prestigious competitions and reviews of architectural works."
+      },
+      "bio": [
+        {
+          "date": "1936",
+          "title": {
+            "ru": "Детство",
+            "en": "Childhood"
+          },
+          "text": {
+            "ru": "Родился 25 июля 1936 года в Минске, закончил 13-ю школу",
+            "en": "Born on July 25, 1936 in Minsk, graduated from the 13th school"
+          }
+        },
+        {
+          "date": "1954",
+          "title": {
+            "ru": "Образование",
+            "en": "Education"
+          },
+          "text": {
+            "ru": "1954—1960 — учёба в Белорусском политехническом институте.",
+            "en": "1954-1960 - studies at the Belarusian Polytechnic Institute."
+          }
+        },
+        {
+          "date": "1960",
+          "title": {
+            "ru": "Деятельность",
+            "en": "Activities"
+          },
+          "text": {
+            "ru": "1960—1967 — участие в создании парка им. 50-летия Советской власти.\n\n1968 — участие в создании выставочного павильона ВДНХ БССР в Минске.\n\n1970 — в составе авторского коллектива был удостоен Ленинской премии за мемориальный комплекс 1968—1969 гг. «Хатынь».",
+            "en": "1960-1967 - participation in the creation of the park. 50th anniversary of Soviet power. \n\n1968 - participation in the creation of the exhibition pavilion of the VDNKh of the BSSR in Minsk. \n\n1970 - as part of the group of authors was awarded the Lenin Prize for the memorial complex 1968-1969. «Khatyn»"
+          }
+        },
+        {
+          "date": "2014",
+          "title": {
+            "ru": "Смерть",
+            "en": "Death"
+          },
+          "text": {
+            "ru": "Умер 1 марта 2014 года в Минске. Похоронен 4 марта 2014 года на Центральной аллее Восточного кладбища в Минске.",
+            "en": "He died on March 1, 2014 in Minsk. Buried on March 4, 2014 at the Central Alley of the Eastern Cemetery in Minsk."
+          }
+        }
+      ],
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Khatyn_Panorama.jpg/1920px-Khatyn_Panorama.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Belarus-Minsk-Memorial_Pit-2.jpg/411px-Belarus-Minsk-Memorial_Pit-2.jpg",
+        "https://upload.wikimedia.org/wikipedia/ru/thumb/f/ff/Yanka-kupala-minsk.jpg/345px-Yanka-kupala-minsk.jpg"
+      ],
+      "video": "_kWXQrlfOv0",
+      "location": "!1m18!1m12!1m3!1d2326.26495450102!2d27.94152501587595!3d54.33462498019799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dba793f64be029%3A0x877bc339de0bb4c2!2z0JzQtdC80L7RgNC40LDQu9GM0L3Ri9C5INC60L7QvNC_0LvQtdC60YEg0KXQsNGC0YvQvdGM!5e0!3m2!1sru!2sby!4v1621581660804!5m2!1sru!2sby"
+    },
+    {
+      "id": 4,
+      "bio": [
+        {
+          "date": "1541",
+          "title": {
+            "ru": "Рождение",
+            "en": "Birth"
+          },
+          "text": {
+            "ru": "Джованни родился в 1541 году в итальянском городе Каньо.",
+            "en": "Giovanni was born in 1541 in the Italian city of Caño."
+          }
+        },
+        {
+          "date": "1564",
+          "title": {
+            "ru": "Деятельность",
+            "en": "Activities"
+          },
+          "text": {
+            "ru": "Работал каменщиком, в 23 года пришёл в Рим вступить в орден иезуитов и стать архитектором. Братья-иезуиты направили его на строительство главного орденского храма в Риме Иль-Джезу, где он трудился 6 лет. Стройкой руководил известный в Италии архитектор, инспектор построек ордена.",
+            "en": "He worked as a bricklayer, at the age of 23 he came to Rome to join the Jesuit order and become an architect. The Jesuit brothers sent him to the construction of the main order temple in Rome, Il-Jezu, where he worked for 6 years. The construction was supervised by a well-known Italian architect, an inspector of the Order's buildings."
+          }
+        },
+        {
+          "date": "1586",
+          "title": {
+            "ru": "Деятельность в Беларуси",
+            "en": "Activities in Belarus"
+          },
+          "text": {
+            "ru": "После настойчивых напоминаний князя Радзивилла ордену об архитекторе, в 1586 году Бернардони приезжает в Несвиж и остается здесь на целых 13 лет. Работы было много. Работы в Несвиже продвигались быстро, хотя перед Бернардони стояла непростая задача.",
+            "en": "After persistent reminders of Prince Radziwill to the order about the architect, in 1586 Bernardoni came to Nesvizh and stayed here for 13 years. There was a lot of work. Work in Nesvizh progressed quickly, although Bernardoni was faced with a difficult task."
+          }
+        }
+      ],
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/81/FKloster.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Niaśviž%2C_Farnaja._Нясьвіж%2C_Фарная_%28K._Piastuškievič%2C_1882%29.jpg/1920px-Niaśviž%2C_Farnaja._Нясьвіж%2C_Фарная_%28K._Piastuškievič%2C_1882%29.jpg",
+        "https://ru.wikipedia.org/wiki/Бернардони,_Джованни_Мария#/media/Файл:Poland_Krakow_Ss._Peter_and_Paul_church.jpg"
+      ],
+      "video": "PCKj_8M2TFA",
+      "location": "!1m18!1m12!1m3!1d38221.189050276575!2d26.640080668792763!3d53.220998317841705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d91c48748491fb%3A0x87827ecdf6b79be2!2z0J3QtdGB0LLQuNC2!5e0!3m2!1sru!2sby!4v1621582812538!5m2!1sru!2sby"
+    },
+    {
+      "id": 5,
+      "bio": [
+        {
+          "date": "1882",
+          "title": {
+            "ru": "Рождение",
+            "en": "Birth"
+          },
+          "text": {
+            "ru": "Иосиф Лангбард родился 6 января 1882 года в местечке Бельск Гродненской губернии Российской империи, в еврейской семье. Отец видел будущее для сына в коммерции, однако Иосиф с детства любил рисовать.",
+            "en": "Joseph Langbard was born on January 6, 1882 in the town of Belsk, Grodno province of the Russian Empire, into a Jewish family. The father saw the future for his son in commerce, but Joseph loved to draw from childhood."
+          }
+        },
+        {
+          "date": "1901",
+          "title": {
+            "ru": "Образование",
+            "en": "Education"
+          },
+          "text": {
+            "ru": "Блестяще окончив в 1901 году местную гимназию, поступил на архитектурное отделение Одесского художественного училища, которое окончил в 1906 году.\n\nВ 1907 году переехал в Санкт-Петербург, где успешно выдержал экзамены в Высшее художественное училище при Императорской академии художеств на архитектурный факультет.",
+            "en": "Having brilliantly graduated from the local gymnasium in 1901, he entered the architectural department of the Odessa Art School, which he graduated in 1906. \n\nIn 1907 he moved to St. Petersburg, where he successfully passed the exams at the Higher Art School at the Imperial Academy of Arts at the Faculty of Architecture."
+          }
+        },
+        {
+          "date": "1951",
+          "title": {
+            "ru": "Смерть",
+            "en": "Death"
+          },
+          "text": {
+            "ru": "Скончался 3 января 1951 года в Ленинграде. Похоронен на Серафимовском кладбище.",
+            "en": "He died on January 3, 1951 in Leningrad. Buried at the Serafimovskoye cemetery."
+          }
+        }
+      ],
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Josef_Langbard_Minsk_Watercolor_Museum_of_History_of_Minsk.jpg/492px-Josef_Langbard_Minsk_Watercolor_Museum_of_History_of_Minsk.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Belarus-Minsk-Independence_Square-1.jpg/1280px-Belarus-Minsk-Independence_Square-1.jpg",
+        "https://ru.wikipedia.org/wiki/Лангбард,_Иосиф_Григорьевич#/media/Файл:Belarus-Minsk-Academy_of_Sciences-5.jpg"
+      ],
+      "video": "dlQIlW3V-iU",
+      "location": "!1m18!1m12!1m3!1d2351.0352480238143!2d27.54551951558926!3d53.895577441130584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfc0484a0855%3A0xc2f0e6e69a0501c8!2z0J_Qu9C-0YnQsNC00Ywg0J3QtdC30LDQstC40YHQuNC80L7RgdGC0Lg!5e0!3m2!1sru!2sby!4v1621584213428!5m2!1sru!2sby"
+    }
+  ]
+}

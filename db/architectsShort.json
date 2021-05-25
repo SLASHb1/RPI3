@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": {
+        "ru": "Юрий Степанович Ананич",
+        "en": "Yuri Stepanovich Ananich"
+      },
+      "dob": "23.11.1955",
+      "dod": "28.02.2015",
+      "description": {
+        "ru": "Белорусский архитектор, внесший вклад в облик современного Минска",
+        "en": "Belarusian architect who made a contribution to the appearance of modern Minsk"
+      },
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Yury_Ananich.jpg"
+    },
+    {
+      "id": 1,
+      "name": {
+        "ru": "Паоло Фонтана",
+        "en": "Paolo Fontana"
+      },
+      "dob": "28.10.1696",
+      "dod": "17.03.1765",
+      "description": {
+        "ru": "Итальянский архитектор, работавший в РП. Представитель позднего барокко.",
+        "en": "Italian architect who worked in the Republic of Poland. Representative of the late Baroque."
+      },
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Paolo_Fontana._G.Fulchi%2C_1743..jpg"
+    },
+    {
+      "id": 2,
+      "name": {
+        "ru": "Тадеуш Ростворовский",
+        "en": "Tadeusz Rostvorovsky"
+      },
+      "dob": "21.03.1860",
+      "dod": "23.08.1928",
+      "description": {
+        "ru": "Граф, архитектор и художник польского происхождения.",
+        "en": "Count, architect and artist of Polish origin."
+      },
+      "photoUrl": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 3,
+      "name": {
+        "ru": "Леонид Менделевич Левин",
+        "en": "Leonid Mendelevich Levin"
+      },
+      "dob": "25.07.1936",
+      "dod": "01.03.2014",
+      "description": {
+        "ru": "Заслуженный архитектор РБ, Лауреат Ленинской премии",
+        "en": "Honored Architect of the Republic of Belarus, Lenin Prize Laureate"
+      },
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Levin_Leonid_Mendele.jpg"
+    },
+    {
+      "id": 4,
+      "longDescription": {
+        "ru": "Джованни (Ян) Мария Бернардони (1541, Каньо, Италия ― 1605, Краков, Речь Посполитая) ― монах-иезуит, итальянский архитектор, первый архитектор стиля барокко в Польше и Великом княжестве Литовском.",
+        "en": "Giovanni (Jan) Maria Bernardoni (1541, Caño, Italy - 1605, Krakow, Rzeczpospolita) - Jesuit monk, Italian architect, the first Baroque architect in Poland and the Grand Duchy of Lithuania."
+      },
+      "name": {
+        "ru": "Джованни Мария Бернардони",
+        "en": "Giovanni Maria Bernardoni"
+      },
+      "dob": "1541",
+      "dod": "1605",
+      "description": {
+        "ru": "Первый архитектор стиля барокко в Польше и ВКЛ.",
+        "en": "The first architect of the Baroque style in Poland and the Grand Duchy of Lithuania."
+      },
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Niasvizh_Bernardoni.JPG"
+    },
+    {
+      "id": 5,
+      "longDescription": {
+        "ru": "Ио́сиф Григо́рьевич Ла́нгбард (6 января 1882, Бельск, Гродненская губерния, Российская империя — 3 января 1951, Ленинград, РСФСР, СССР) — белорусский советский архитектор, заслуженный деятель искусств Белорусской ССР (1934), обладатель Гран-при Всемирной выставки в Париже, 1937, доктор архитектуры (с 1939 года).",
+        "en": "Iosif Grigorievich Langbard (January 6, 1882, Belsk, Grodno province, Russian Empire - January 3, 1951, Leningrad, RSFSR, USSR) - Belarusian Soviet architect, Honored Art Worker of the Belarusian SSR (1934), winner of the Grand Prix at the World Exhibition in Paris, 1937 , Doctor of Architecture (since 1939)."
+      },
+      "name": {
+        "ru": "Иосиф Григорьевич Лангбард",
+        "en": "Joseph G. Langbard"
+      },
+      "dob": "06.01.1882",
+      "dod": "03.01.1951",
+      "description": {
+        "ru": "Одни из выдающихся зодчих Европы XX века",
+        "en": "Some of the most prominent architects of Europe of the XX century"
+      },
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Architect_Langbard_Iosif_Grigorevich.jpg"
+    }
+  ]
+}

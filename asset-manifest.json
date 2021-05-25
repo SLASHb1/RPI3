@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RPI3/static/css/main.a626b1c8.chunk.css",
+    "main.js": "/RPI3/static/js/main.f7932368.chunk.js",
+    "main.js.map": "/RPI3/static/js/main.f7932368.chunk.js.map",
+    "runtime-main.js": "/RPI3/static/js/runtime-main.3d7370dd.js",
+    "runtime-main.js.map": "/RPI3/static/js/runtime-main.3d7370dd.js.map",
+    "static/css/2.72c483b3.chunk.css": "/RPI3/static/css/2.72c483b3.chunk.css",
+    "static/js/2.8b1f0169.chunk.js": "/RPI3/static/js/2.8b1f0169.chunk.js",
+    "static/js/2.8b1f0169.chunk.js.map": "/RPI3/static/js/2.8b1f0169.chunk.js.map",
+    "index.html": "/RPI3/index.html",
+    "static/css/2.72c483b3.chunk.css.map": "/RPI3/static/css/2.72c483b3.chunk.css.map",
+    "static/css/main.a626b1c8.chunk.css.map": "/RPI3/static/css/main.a626b1c8.chunk.css.map",
+    "static/js/2.8b1f0169.chunk.js.LICENSE.txt": "/RPI3/static/js/2.8b1f0169.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/RPI3/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d7370dd.js",
+    "static/css/2.72c483b3.chunk.css",
+    "static/js/2.8b1f0169.chunk.js",
+    "static/css/main.a626b1c8.chunk.css",
+    "static/js/main.f7932368.chunk.js"
+  ]
+}
